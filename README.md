@@ -24,6 +24,4 @@ A modern, developer-aesthetic task manager built with React and Vite. Features i
 
 ##  Getting Started
 
-```bash
-
 
