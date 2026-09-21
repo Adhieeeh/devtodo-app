@@ -25,6 +25,5 @@ A modern, developer-aesthetic task manager built with React and Vite. Features i
 ##  Getting Started
 
 ```bash
-# 1. Clone the repository
-git clone [https://github.com/Adhieeeh/devtodo-app.git](https://github.com/Adhieeeh/devtodo-app.git)
+
 
