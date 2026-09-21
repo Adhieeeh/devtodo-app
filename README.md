@@ -11,8 +11,7 @@ A modern, developer-aesthetic task manager built with React and Vite. Features i
 -  **Dynamic Progress HUD**: Real-time progress bar recalculating completion percentage.
 -  **View Filters**: Instantly switch views between `All`, `Active`, and `Completed`.
 -  **Batch Operations**: "Toggle All" and "Clear Completed" in a single click.
-dthhdf
----
+ ---
 
 ##  Tech Stack
 -----------------------------------
