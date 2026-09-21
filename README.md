@@ -1,16 +1,38 @@
-# React + Vite
+# ⚡ DevTasks Studio (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, developer-aesthetic task manager built with React and Vite. Features instant `localStorage` persistence, inline double-click editing, active filter states, batch operations, and a real-time progress completion meter.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 💾 **Local Storage Persistence**: Retains state seamlessly across browser reloads.
+- ✏️ **Inline Task Editing**: Double-click any task label or use the edit action (`Enter` to save, `Escape` to cancel).
+- 📊 **Dynamic Progress HUD**: Real-time progress bar recalculating completion percentage.
+- 🔍 **View Filters**: Instantly switch views between `All`, `Active`, and `Completed`.
+- ⚡ **Batch Operations**: "Toggle All" and "Clear Completed" in a single click.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Framework**: React 18 / 19
+- **Build Tool**: Vite
+- **Styling**: Pure scoped modern CSS (Dark Mode / Monospace HUD)
+
+---
+
+## 📦 Getting Started
+
+```bash
+# 1. Clone the repository
+git clone [https://github.com/Adhieeeh/devtodo-app.git](https://github.com/Adhieeeh/devtodo-app.git)
+
+# 2. Navigate to project root
+cd devtodo-app
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
