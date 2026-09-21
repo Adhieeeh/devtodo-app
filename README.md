@@ -31,6 +31,3 @@ git clone [https://github.com/Adhieeeh/devtodo-app.git](https://github.com/Adhie
 # 2. Navigate to project root
 cd devtodo-app
 
-# 3. Install dependencies
-npm install
-
