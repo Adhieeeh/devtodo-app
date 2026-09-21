@@ -19,6 +19,3 @@ A modern, developer-aesthetic task manager built with React and Vite. Features i
 - **Framework**: React 18 / 19
 - **Build Tool**: Vite
 - **Styling**: Pure scoped modern CSS (Dark Mode / Monospace HUD)
-
----
-
